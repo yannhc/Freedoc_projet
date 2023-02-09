@@ -1,5 +1,8 @@
 # README
 
+SUITE A UN PROBLEME AVEC GIT, J'AI MIS SEULEMENT LES FICHIERS SUR LESQUELS J'AI APPORTE DES MODIFICATIONS. LA COORECTION SE FERA EN PARTAGE D'ECRAN.
+
+
 Projet Free doc, doctolib n'a qu'à bien se tenir !
 
 Pour ce premier exercice, nous allons t'aider et te donner les models à créer :
@@ -32,3 +35,4 @@ Ajouter une table city
 Virer la ligne specialty de ta table doctor et la remplacer par un model à part entière : tu vas donc créer un model specialty. Un docteur aurait plusieurs specialty (DEAL_WITH_IT), et une specialty pourrait concerner plusieurs doctor.
 
 On reteste le tout, un petit seed qui va bien, et hop, on fout doctolib au tapis!
+
